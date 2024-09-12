@@ -1,6 +1,6 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Name: Akshai khanna D 
-# Register No: 212223040010
+# Name: MOHAN KRISHNA J
+# Register No: 212223220060
 # Date:
 # AIM :
 ## To write a C program to implement a symbol table.
